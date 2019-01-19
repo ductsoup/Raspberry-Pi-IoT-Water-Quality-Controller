@@ -6,7 +6,7 @@ The inspiration came from [reef-pi](https://github.com/reef-pi/reef-pi). There's
 This is simply a variation on the same theme that's better suited to what I'm doing coded in Python. 
 
 * Interface with MQTT, MODBUS TCP and other protocols
-* Interface with I2C sensors (RTD, PH, EC, DO)
+* Interface with I2C sensors (RTD, PH, EC, DO, light)
 * Control 12VDC PWM devices (dosing pumps)
 * Control 120VAC devices (lights, air pumps)
 
