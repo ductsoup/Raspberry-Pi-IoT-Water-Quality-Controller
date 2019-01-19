@@ -7,8 +7,8 @@ This is simply a variation on the same theme that's better suited to what I'm do
 
 * Interface with MQTT, MODBUS TCP and other protocols
 * Interface with I2C sensors (RTD, PH, EC, DO, light)
-* Control 12VDC PWM devices (dosing pumps)
-* Control 120VAC devices (lights, air pumps)
+* Control 12 VDC PWM devices (dosing pumps)
+* Control 120 VAC devices (lights, air pumps)
 
 **Full Disclosure: This is one of my infamous cocktail napkin designs and should be considered a work in progress for now.**
 
@@ -24,6 +24,7 @@ I'm using the non-isolated for RTD temperature and the other two for PH and elec
   * [EZO PH](https://www.atlas-scientific.com/product_pages/circuits/ezo_ph.html)
   * [EZO EC](https://www.atlas-scientific.com/product_pages/circuits/ezo_ec.html)
   * [EZO DO](https://www.atlas-scientific.com/product_pages/circuits/ezo_do.html)
+  * [Adafruit AS7262 6-Channel Visible Light / Color Sensor Breakout](https://www.adafruit.com/product/3779)
 
 ![Sensor](/images/hydro_sensor_bb.png)
 
