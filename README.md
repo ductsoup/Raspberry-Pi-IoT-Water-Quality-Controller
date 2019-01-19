@@ -40,7 +40,6 @@ The Adafruit HAT is great for 12VDC PWM but isn't designed to switch lager loads
 ### Lights and Air Pumps
 For switching line voltage devices such as lights and air pumps I'm using a relay board.
 
-* [CAMDEC Inc Raspberry PI Expansion Board, Relays Board](https://www.amazon.com/CAMDEC-Inc-Raspberry-Expansion-Automation/dp/B071ND1FMR/ref=sr_1_1?s=electronics&ie=UTF8&qid=1547461584&sr=1-1&keywords=CAMDEC+Inc 
-https://www.camdec.net/relays-deck)
+* [CAMDEC Inc Raspberry PI Expansion Board, Relays Board](https://www.amazon.com/CAMDEC-Inc-Raspberry-Expansion-Automation/dp/B071ND1FMR/ref=sr_1_1?s=electronics&ie=UTF8&qid=1547461584&sr=1-1&keywords=CAMDEC+Inc)
 
 ![Lights and Air Pumps](/images/hydro_120VAC_bb.png)
