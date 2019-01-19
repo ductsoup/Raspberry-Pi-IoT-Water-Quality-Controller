@@ -32,8 +32,8 @@ Adafruit offers a 12V DC motor controller HAT with four channels. I'm using thos
 The Adafruit HAT is great for 12VDC PWM but isn't designed to switch lager loads. For that I'm using a MOSFET board.
 
 * [Diymore 4 Channels 4 Route MOSFET](https://www.amazon.com/Diymore-Channels-MOSFET-Button-Arduino/dp/B01MRQFYJN/ref=asc_df_B01MRQFYJN/?tag=hyprod-20&linkCode=df0&hvadid=198109700569&hvpos=1o3&hvnetw=g&hvrand=1418185042287151470&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007347&hvtargid=pla-385355383830&psc=1)
- * [IceProbe Thermoelectric Aquarium Chiller](https://smile.amazon.com/IceProbe-Thermoelectric-Aquarium-Chiller/dp/B001JSVLBO/ref=cm_cr_arp_d_product_top?ie=UTF8)
- * [12v Submersible Water Pump 206 GPH](https://www.amazon.com/dp/B01816E1YU/ref=psdc_402303011_t2_B01267CT80?th=1)
+  * [IceProbe Thermoelectric Aquarium Chiller](https://smile.amazon.com/IceProbe-Thermoelectric-Aquarium-Chiller/dp/B001JSVLBO/ref=cm_cr_arp_d_product_top?ie=UTF8)
+  * [12v Submersible Water Pump 206 GPH](https://www.amazon.com/dp/B01816E1YU/ref=psdc_402303011_t2_B01267CT80?th=1)
 
 ![Chillers and Pumps](/images/hydro_12V_DC_bb.png)
 
