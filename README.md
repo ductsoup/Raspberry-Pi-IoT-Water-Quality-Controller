@@ -10,7 +10,8 @@ This is simply a variation on the same theme that's better suited to what I'm do
 * Control 12 VDC PWM devices (dosing pumps)
 * Control 120 VAC devices (lights, air pumps)
 
-**Full Disclosure: This is one of my infamous cocktail napkin designs and should be considered a work in progress for now.**
+### Full Disclosure
+This is one of my infamous cocktail napkin designs and should be considered a work in progress for now.
 
 ## Hardware
 ### Water Quality Sensing
