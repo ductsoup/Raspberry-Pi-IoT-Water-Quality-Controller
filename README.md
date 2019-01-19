@@ -24,7 +24,7 @@ I'm using the non-isolated for RTD temperature and the other two for PH and elec
 Adafruit offers a 12V DC motor controller HAT with four channels. I'm using those for PH up, PH down and two nutrient solutions.
 
 * [Adafruit DC & Stepper Motor HAT for Raspberry Pi](https://www.adafruit.com/product/2348)
-* [Peristaltic Liquid Pump](https://www.adafruit.com/product/1150 )
+  * [Peristaltic Liquid Pump](https://www.adafruit.com/product/1150 )
 
 ![Dosing](/images/hydro_12V_PWM_bb.png)
 
@@ -37,3 +37,10 @@ The Adafruit HAT is great for 12VDC PWM but isn't designed to switch lager loads
 
 ![Chillers and Pumps](/images/hydro_12V_DC_bb.png)
 
+### Lights and Air Pumps
+For switching line voltage devices such as lights and air pumps I'm using a relay board.
+
+* [CAMDEC Inc Raspberry PI Expansion Board, Relays Board](https://www.amazon.com/CAMDEC-Inc-Raspberry-Expansion-Automation/dp/B071ND1FMR/ref=sr_1_1?s=electronics&ie=UTF8&qid=1547461584&sr=1-1&keywords=CAMDEC+Inc 
+https://www.camdec.net/relays-deck)
+
+![Lights and Air Pumps](/images/hydro_120VAC_bb.png)
