@@ -22,7 +22,7 @@ I'm using the non-isolated for RTD temperature and the other two for PH and elec
 ![Sensor](/images/hydro_sensor_bb.png)
 
 ### Dosing
-Adafruit offers a 12V DC motor controller HAT with four channels.
+Adafruit offers a 12V DC motor controller HAT with four channels. I'm using those for PH up, PH down and two nutrient solutions.
 
 * [Adafruit DC & Stepper Motor HAT for Raspberry Pi](https://www.adafruit.com/product/2348)
 * [Peristaltic Liquid Pump](https://www.adafruit.com/product/1150 )
