@@ -43,3 +43,9 @@ For switching line voltage devices such as lights and air pumps I'm using a rela
 * [CAMDEC Inc Raspberry PI Expansion Board, Relays Board](https://www.amazon.com/CAMDEC-Inc-Raspberry-Expansion-Automation/dp/B071ND1FMR/ref=sr_1_1?s=electronics&ie=UTF8&qid=1547461584&sr=1-1&keywords=CAMDEC+Inc)
 
 ![Lights and Air Pumps](/images/hydro_120VAC_bb.png)
+
+### Power
+A quick review of the power budget says I'm going to need more than a wall adapter.
+
+* [SUPERNIGHT 12V 30A Switching Power Supply, 110-240 Volt AC to DC 360W Universal Regulated Switching Transformer](https://smile.amazon.com/SUPERNIGHT-Switching-Universal-Regulated-Transformer/dp/B01LATMSGS/ref=sr_1_20?ie=UTF8&qid=1547384587&sr=8-20&keywords=12vdc+power+supply)
+* [ZYAMY 12A High Power DC-DC Buck Converter Adjustable Step Down Power Supply Module 4.5-30V to 1.2-30V ](https://smile.amazon.com/dp/B07GGRCCRL/ref=sspa_dk_detail_0?psc=1 )
