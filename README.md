@@ -8,6 +8,7 @@ This is simply a variation on the same theme that's better suited to what I'm do
 * Interface with MQTT, MODBUS TCP and other protocols
 * Interface with I2C sensors (RTD, PH, EC, DO, light)
 * Control 12 VDC PWM devices (dosing pumps)
+* Control 12 VDC devices (chillers, submersible pumps)
 * Control 120 VAC devices (lights, air pumps)
 
 ### Full Disclosure
