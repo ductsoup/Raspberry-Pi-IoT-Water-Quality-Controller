@@ -3,7 +3,7 @@ A Raspberry Pi based controller that can be used for water treatment systems, hy
 
 The inspiration came from [reef-pi](https://github.com/reef-pi/reef-pi). There's a great write up on that project over at [Adafruit](https://learn.adafruit.com/search?q=reef-pi). 
 
-This is simply a variation on the same theme that's better suited to what I'm doing that's coded in Python. 
+This is simply a variation on the same theme better suited to what I'm doing that's coded in Python. 
 
 * Interface with MQTT, MODBUS TCP and other protocols
 * Interface with I2C sensors (RTD, PH, EC, DO, light)
@@ -58,4 +58,4 @@ For switching line voltage devices such as lights and air pumps I'm using a rela
 A quick review of the power budget says I'm going to need more than just a wall adapter. Main power comes from a 12 VDC supply then we step down to 5 VDC with a buck converter for the Raspberry Pi.
 
 * [SUPERNIGHT 12V 30A Switching Power Supply, 110-240 Volt AC to DC 360W Universal Regulated Switching Transformer](https://smile.amazon.com/SUPERNIGHT-Switching-Universal-Regulated-Transformer/dp/B01LATMSGS/ref=sr_1_20?ie=UTF8&qid=1547384587&sr=8-20&keywords=12vdc+power+supply)
-* [ZYAMY 12A High Power DC-DC Buck Converter Adjustable Step Down Power Supply Module 4.5-30V to 1.2-30V ](https://smile.amazon.com/dp/B07GGRCCRL/ref=sspa_dk_detail_0?psc=1 )
+* [ZYAMY 12A High Power DC-DC Buck Converter Adjustable Step Down Power Supply Module 4.5-30V to 1.2-30V ](https://smile.amazon.com/dp/B07GGRCCRL/ref=sspa_dk_detail_0?psc=1)
