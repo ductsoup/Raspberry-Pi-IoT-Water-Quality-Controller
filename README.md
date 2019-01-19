@@ -6,7 +6,9 @@ This is currently a work in progress repository inspired by [reef-pi](https://gi
 
 This is simply a variation on the same theme that's better suited to what I'm doing. Rather than a web interface, this is  Python based so it can exchange information via MQTT and other protocols.
 
-## Water Quality Sensing and Dosing
+## Hardware
+### Water Quality Sensing
+
 
 
 
