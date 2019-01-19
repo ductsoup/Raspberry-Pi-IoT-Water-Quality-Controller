@@ -10,7 +10,7 @@ This is simply a variation on the same theme that's better suited to what I'm do
 ### Water Quality Sensing
 [Atlas Scientific](https://www.atlas-scientific.com) offers a stackable HAT for Raspberry Pi called Tentacle T3 for their EZO boards and sensors. It provides two isolated, one non-isolated and two spare channels. 
 
-I'm using the non-isolated for RTD temperature and the other two for PH and electrical conductivity (total dissolved solids). I've also repurposed one of the spare channels for dissolved oxygen by adding an additional isolated carrier board. Something similar can be done with channel 5.
+I'm using the non-isolated for RTD temperature and the other two for PH and electrical conductivity (total dissolved solids). Normally the spare channels would be used for dosing pumps but I've repurposed one for dissolved oxygen by adding an additional isolated carrier board. Something similar can be done with channel 5.
 
 * [Whitebox Labs Tentacle T3](https://www.atlas-scientific.com/product_pages/components/tentacle-t3.html)
 * [Electrically Isolated EZO™ Carrier Board](https://www.atlas-scientific.com/product_pages/components/single_carrier_iso.html)
