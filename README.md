@@ -14,10 +14,10 @@ I'm using the non-isolated for RTD temperature and the other two for PH and elec
 
 * [Whitebox Labs Tentacle T3](https://www.atlas-scientific.com/product_pages/components/tentacle-t3.html)
 * [Electrically Isolated EZO™ Carrier Board](https://www.atlas-scientific.com/product_pages/components/single_carrier_iso.html)
- * [EZO RTD](https://www.atlas-scientific.com/product_pages/circuits/ezo_rtd.html)
- * [EZO PH](https://www.atlas-scientific.com/product_pages/circuits/ezo_ph.html)
- * [EZO EC](https://www.atlas-scientific.com/product_pages/circuits/ezo_ec.html)
- * [EZO DO](https://www.atlas-scientific.com/product_pages/circuits/ezo_do.html)
+  * [EZO RTD](https://www.atlas-scientific.com/product_pages/circuits/ezo_rtd.html)
+  * [EZO PH](https://www.atlas-scientific.com/product_pages/circuits/ezo_ph.html)
+  * [EZO EC](https://www.atlas-scientific.com/product_pages/circuits/ezo_ec.html)
+  * [EZO DO](https://www.atlas-scientific.com/product_pages/circuits/ezo_do.html)
 
 ![Sensor](/images/hydro_sensor_bb.png)
 
