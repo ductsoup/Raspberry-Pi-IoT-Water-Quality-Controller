@@ -8,7 +8,7 @@ This is simply a variation on the same theme that's better suited to what I'm do
 
 ## Hardware
 ### Water Quality Sensing
-[Atlas Scientific](https://www.atlas-scientific.com) offers a stackable HAT for Raspberry Pi called Tentacle T3 for their EZO boards and sensors. It provides two isolated, one non-isolated and two spare channels. 
+Atlas Scientific offers a stackable HAT for Raspberry Pi called Tentacle T3 for their EZO boards and sensors. It provides two isolated, one non-isolated and two spare channels. 
 
 I'm using the non-isolated for RTD temperature and the other two for PH and electrical conductivity (total dissolved solids). Normally the spare channels would be used for dosing pumps but I've repurposed one for dissolved oxygen by adding an additional isolated carrier board. Something similar can be done with channel 5.
 
@@ -21,5 +21,10 @@ I'm using the non-isolated for RTD temperature and the other two for PH and elec
 
 ![Sensor](/images/hydro_sensor_bb.png)
 
+### Dosing
+Adafruit offers a 12V DC motor controller HAT with four channels.
 
+* [Adafruit DC & Stepper Motor HAT for Raspberry Pi](https://www.adafruit.com/product/2348)
+* [Peristaltic Liquid Pump](https://www.adafruit.com/product/1150 )
 
+![Dosing](/images/hydro_12V_PWM_bb.png)
