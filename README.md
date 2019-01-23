@@ -11,6 +11,23 @@ This is simply a variation on the same theme better suited to what I'm doing tha
 * Control 12 VDC devices (chillers, submersible pumps)
 * Control 120 VAC devices (lights, air pumps)
 
+#I2C Device Map
+All I/O is I2C for isolation. Aside from 3.3V, GND, SDA and SCL all other Pi GPIO pins are available for other uses.
+
+* 0x20 8 channel GPIO expander for 120V AC, 10A relays
+* 0x21 4 channel GPIO expander for 12V DC, 20A MOSFETs
+* 0x60 4 channel HAT 12V PWM, 1.2A
+* 0x66 RTD
+* 0x63 PH
+* 0x64 EC/TDS
+* 0x97 DO
+
+The I2C bus connectors are 4 wire.
+* 3.3V
+* GND
+* SDA
+* SCL
+
 ### Full Disclosure
 This is one of my infamous cocktail napkin designs and should be considered a prototype work in progress for now.
 
