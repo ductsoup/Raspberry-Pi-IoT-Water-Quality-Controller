@@ -22,7 +22,7 @@ All I/O is I2C for isolation. Aside from 3.3V, GND, SDA and SCL all other Pi GPI
 * 0x64 EC/TDS
 * 0x97 DO
 
-The I2C bus connectors are 4 wire.
+The I2C bus connectors are 4 wires.
 * 3.3V
 * GND
 * SDA
