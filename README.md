@@ -1,5 +1,5 @@
 # Raspberry Pi IoT Water Quality Controller
-A Raspberry Pi based controller that can be used for water treatment systems, hydroponics, aeroponics, aquaponics, reef tanks and similar applications.
+A modular Raspberry Pi based controller that can be used for water treatment systems, hydroponics, aeroponics, aquaponics, reef tanks and similar applications.
 
 The inspiration came from [reef-pi](https://github.com/reef-pi/reef-pi). There's a great write up on that project over at [Adafruit](https://learn.adafruit.com/search?q=reef-pi). 
 
