@@ -12,7 +12,7 @@ This is simply a variation on the same theme better suited to what I'm doing tha
 * Control 120 VAC devices (lights, air pumps)
 
 ### I2C Device Map
-All I/O is I2C for isolation. Aside from 3.3V, GND, SDA and SCL all other Pi GPIO pins are available for other uses.
+I/O is I2C for isolation and sanity purposes. Aside from 3.3V, GND, SDA and SCL all other Pi GPIO pins are available for other uses.
 
 * 0x20 8 channel GPIO expander for 120V AC, 10A relays
 * 0x21 4 channel GPIO expander for 12V DC, 20A MOSFETs
