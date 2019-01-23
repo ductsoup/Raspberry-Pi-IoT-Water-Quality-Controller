@@ -12,7 +12,7 @@ This is simply a variation on the same theme better suited to what I'm doing tha
 * Control 120 VAC devices (lights, air pumps)
 
 ### I2C Device Map
-I/O is I2C to simplfy the wiring, for isolation and sanity purposes. All Pi GPIO pins are available for other uses if necessary.
+The Pi GPIO pins are available for other uses. All I/O is I2C to simplfy the wiring, for isolation and for sanity purposes. 
 
 * 0x20 8 channel GPIO expander for 120V AC, 10A relays
 * 0x21 8 channel GPIO expander for 12V DC, 20A MOSFETs (only 4 channels in use)
