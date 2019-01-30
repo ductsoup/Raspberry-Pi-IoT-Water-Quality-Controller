@@ -21,10 +21,10 @@ The Pi GPIO pins are available for other uses. All I/O is I2C to simplfy the wir
 * 0x97 DO
 
 The I2C bus connectors are 4 wires.
-* 3.3V
-* GND
-* SDA
-* SCL
+* 3.3V - RED
+* GND - BLK
+* SDA - WHT
+* SCL - YEL
 
 ### Full Disclosure
 This is one of my infamous cocktail napkin designs and should be considered a prototype work in progress for now.
